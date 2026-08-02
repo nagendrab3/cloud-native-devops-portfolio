@@ -1,4 +1,4 @@
-# Cloud-Native DevOps Portfolio Website 🚀
+# Cloud-Native DevOps Portfolio Website 
 
 ## Project Overview
 
@@ -6,13 +6,13 @@ This is my personal portfolio website created to showcase my experience as a Clo
 
 The website is developed using HTML, CSS, and JavaScript and deployed on an AWS EC2 instance using Nginx web server.
 
----
+
 
 ## Live Website
 
 http://<EC2-PUBLIC-IP>
 
----
+
 
 ## Technologies Used
 
@@ -34,7 +34,7 @@ http://<EC2-PUBLIC-IP>
 - GitHub
 
 
----
+
 
 ## Project Architecture
 
@@ -84,7 +84,7 @@ portfolio-website
         Project documentation
 
 
----
+
 
 ## Deployment Process
 
@@ -119,7 +119,7 @@ sudo systemctl restart nginx
 http://<EC2-PUBLIC-IP>
 
 
----
+
 
 ## Skills Demonstrated
 
@@ -131,7 +131,7 @@ http://<EC2-PUBLIC-IP>
 - HTML/CSS/JavaScript Development
 
 
----
+
 
 ## Future Enhancements
 
@@ -143,7 +143,7 @@ http://<EC2-PUBLIC-IP>
 - HTTPS SSL Configuration
 
 
----
+
 
 ## About Me
 
@@ -170,7 +170,7 @@ Certifications:
 - Nokia Cloud Native Certifications
 
 
----
+
 
 ## Contact
 
@@ -189,6 +189,6 @@ Email:
 nagendraalapati@gmail.com
 
 
----
 
-Thank you for visiting my portfolio 🚀
+
+Thank you for visiting my portfolio 
