@@ -10,7 +10,7 @@ The website is developed using HTML, CSS, and JavaScript and deployed on an AWS 
 
 ## Live Website
 
-http://<EC2-PUBLIC-IP>
+http://ip address
 
 
 
