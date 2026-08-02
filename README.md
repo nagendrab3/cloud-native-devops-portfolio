@@ -77,9 +77,6 @@ portfolio-website
 |-- script.js
 |       Website interactions
 |
-|-- resume.pdf
-|       Resume document
-|
 |-- README.md
         Project documentation
 
