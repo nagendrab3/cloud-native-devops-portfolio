@@ -128,7 +128,7 @@ http://<EC2-PUBLIC-IP>
 - Nginx Configuration
 - Git Version Control
 - GitHub Repository Management
-- HTML/CSS/JavaScript Development
+- HTML/CSS/JavaScript
 
 
 
